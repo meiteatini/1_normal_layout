@@ -1,2 +1,2 @@
-# 1_normal_layout
-layout test 1
+# M:\public_html\digi-intro\layout_tests
+layout tests
